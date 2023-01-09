@@ -1,0 +1,133 @@
+{ 
+"source": "https://support.google.com/chrome/answer/157179?hl=de",
+"version": "0.0.1",
+"last-full-data-integrity-check": "2022-11-22",
+"shortcuts": [
+    {
+        "title": "Neues Fenster öffnen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "global",
+        "shortcut": ["cmd", "n"]
+    },
+    {
+        "title": "Neues Fenster im Inkognitomodus öffnen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "global",
+        "shortcut": ["cmd", "shift", "n"]
+    },
+    {
+        "title": "Neuen Tab öffnen und aufrufen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "global",
+        "shortcut": ["cmd", "t"]
+    },
+    {
+        "title": "Zuvor geschlossene Tabs in der Reihenfolge öffnen, in der sie geschlossen wurden",
+        "description": "",
+        "hyperlink": "",
+        "scope": "global",
+        "shortcut": ["cmd", "shift", "t"]
+    },
+    {
+        "title": "Zum nächsten geöffneten Tab wechseln",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "opt", "right"]
+    },
+    {
+        "title": "Zum vorherigen geöffneten Tab wechseln",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "opt", "left"]
+    },
+    {
+        "title": "Zum ersten Tab wechseln",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "1"]
+    },
+    {
+        "title": "Zum dritten Tab wechseln",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "3"]
+    },
+    {
+        "title": "Zum letzten Tab in der Reihe wechseln",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "9"]
+    },
+    {
+        "title": "Vorherige Seite aus dem Browserverlauf im aktuellen Tab öffnen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "tab",
+        "shortcut": ["cmd", "left"]
+    },
+    {
+        "title": "Nächste Seite aus dem Browserverlauf im aktuellen Tab öffnen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "tab",
+        "shortcut": ["cmd", "right"]
+    },
+    {
+        "title": "Aktuellen Tab oder aktuelles Pop-up schließen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "tab",
+        "shortcut": ["cmd", "w"]
+    },
+    {
+        "title": "Aktuelles Fenster schließen",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "shift", "w"]
+    },
+    {
+        "title": "Fenster minimieren",
+        "description": "",
+        "hyperlink": "",
+        "scope": "window",
+        "shortcut": ["cmd", "m"]
+    },
+    {
+        "title": "Browser ausblenden",
+        "description": "",
+        "hyperlink": "",
+        "scope": "global",
+        "shortcut": ["cmd", "h"]
+    },
+    {
+        "title": "Browser beenden",
+        "description": "",
+        "hyperlink": "",
+        "scope": "global",
+        "shortcut": ["cmd", "q"]
+    },
+    {
+        "title": "Tab nach rechts verschieben",
+        "description": "",
+        "hyperlink": "",
+        "scope": "tab",
+        "shortcut": ["ctrl", "shift", "fn", "down"]
+    },
+    {
+        "title": "Tab nach links verschieben",
+        "description": "",
+        "hyperlink": "",
+        "scope": "tab",
+        "shortcut": ["ctrl", "shift", "fn", "up"]
+    }
+]
+}

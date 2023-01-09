@@ -1,0 +1,9 @@
+//- when we have an 'pageName' in our page-heads then this will result in
+    a 'pageName'.cc toolset/build/includes directory this will be a link to 
+    the pretty debug-version or the optimized production-version of our css.
+    You may add further stylesheets to be include arbitrarily.
+    Better is to have them all imported in your 'pageName'.styl as this
+    will inline all the othr css and we have one file to be optimized and  
+    included with this line.
+style 
+    include ../../../toolset/build/includes/index.css
