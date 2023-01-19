@@ -2,5 +2,6 @@ node_modules
 testing/document-root/*
 testing/certificates/*
 .build-config
+package.json
 package-lock.json
 .history
