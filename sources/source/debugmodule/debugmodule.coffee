@@ -1,8 +1,18 @@
-debugmodule = {name: "debugmodule", uimodule: false}
+import { addModulesToDebug } from "thingy-debug"
 
 ############################################################
-debugmodule.modulesToDebug = 
-    unbreaker: true
-    configmodule: true
+export modulesToDebug = {
 
-export default debugmodule
+    configmodule: true
+    coursemodule: true
+    coursenavigationmodule: true
+    feedbackdisplaymodule: true
+    footermodule: true
+    headermodule: true
+    keymapdatamodule: true
+    shortcutdatamodule: true
+    virtualkeyboardmodule: true
+
+}
+
+addModulesToDebug(modulesToDebug)
