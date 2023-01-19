@@ -1,9 +1,9 @@
-import configmodule from "./configmodule"
-import debugmodule from "./debugmodule"
+import * as configmodule from "./configmodule.js"
+import * as debugmodule from "./debugmodule.js"
 
 Modules = {
     configmodule,
-    debugmodule
+    debugmodule,
 }
 
 export default Modules
